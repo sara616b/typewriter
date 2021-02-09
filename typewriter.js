@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", init);
 
 let text;
 let showtext;
-let container = document.querySelector("h1");
+let container = document.querySelector(".typewritten");
 let i = 1;
 
 function init() {
